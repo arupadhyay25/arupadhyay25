@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/105644684/199266881-0c06607f-2304-4678-81b5-1db101211239.gif" align="center" style="width: 100%" />
 </div>  
   
-![ezgif-3-0d68d0ccde](https://user-images.githubusercontent.com/105644684/199266881-0c06607f-2304-4678-81b5-1db101211239.gif)
 
 ### <div align="center">I'm Abhishek, a full-time MERN-stack developer 🚀</div>  
 
