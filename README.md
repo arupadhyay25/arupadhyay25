@@ -7,7 +7,7 @@
 
   
 # 💫 About Me:
-🌱 I’m currently learning<br>💬 Ask me about Web-Development<br>⚡ Fun fact I Use tab over Spaces
+🌱 I’m currently learning at Masai <br>💬 Ask me about Web-Development<br>⚡ Fun fact I Use tab over Spaces
 
 
 ## 🌐 Socials:
