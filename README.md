@@ -1,4 +1,5 @@
-<div align="center">
+<span align="center">
+  <div align="center">
 <img src="https://user-images.githubusercontent.com/105644684/199266881-0c06607f-2304-4678-81b5-1db101211239.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -30,3 +31,5 @@
 [![](https://visitcount.itsvg.in/api?id=arupadhyay25&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+
+</span>
