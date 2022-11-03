@@ -3,7 +3,9 @@
 <img src="https://user-images.githubusercontent.com/105644684/199266881-0c06607f-2304-4678-81b5-1db101211239.gif" align="center" style="width: 100%" />
 </div>  
   
+![hello](https://user-images.githubusercontent.com/105644684/199731691-5f50eb01-f78b-4964-ad48-6826e39835c0.png)
 
+  
 ### <div align="center">I'm Abhishek, a full-time MERN-stack developer 🚀</div>  
 
   
